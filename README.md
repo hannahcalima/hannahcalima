@@ -1,4 +1,4 @@
 # Sobre mim
-- 👋 Hi, I’m @hannahcalima
-- 👀 I’m interested in  aprender a programar 
-- 📫 How to reach me com o meu email da escola hannah.lima@escola.pr.gov.br
+- 👋 Oi, eu sou @hannahcalima
+- 👀 Eu estou interresado em aprender a programar 
+- 📫 Como me contatar com o meu email da escola hannah.lima@escola.pr.gov.br
